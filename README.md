@@ -1,2 +1,5 @@
-#SILENT AJS 7asist sc nya msh Rahasia klo mu pke libs nya aja dullu Thaks...
-git clone https://github.com/virojano19/SILENT
+Installation  <br> 
+git clone https://github.com/virojano19/SILENT  <br> 
+cd SILENT <br> 
+nano kicker.py <br> 
+python3  kicker.py <br>
